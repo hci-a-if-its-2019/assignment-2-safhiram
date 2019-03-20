@@ -4,14 +4,20 @@
 
 ### 1. Scan/Photo of Sketches
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
-
-### 2. Version Differences
 <h4>Problem :</h4>
 
 * There is no button for FAQ feature
 * itsmine box hide troll button
-* There are two button which has same function. It's 'Tentang Kamu' and 'Kontak' button
+* There are two button which has same function. It's 'Tentang Kami' and 'Kontak' button
+
+<h4>Solution 1</h4>
+<img src="1.jpg">
+<h4>Solution 2</h4>
+<img src="2.jpg">
+<h4>Solution 3</h4>
+<img src="3.jpg">
+
+### 2. Version Differences
 
 <h4>Solution 1:</h4>
 
@@ -34,6 +40,7 @@
 * Put itsmine box in the center. 
   Every two minute, image always change(slide) so we can put that contain itsmine box on there.
 * Put troll button in top left corner.
+* Make a big button for FAQ and 'Kontak' in 'Bantuan' side
 ```
 
 ### 3. Selected Sketch
@@ -45,19 +52,25 @@ The writers choose solution one because in writes's opinion,
 ```
 
 ### 4. Design Rationale
+
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+In assignment-1 , we do interview with a user to test a website. 
+User feel confused to do our instruction because of some design. 
+From trancript interview, we make contextual inquiry 
+that represent conclusion that what make the user feel confused.
+From that contextual inquiry, we can revision that design website to make it better.
 ```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+Screen size : 14 inch
+Screen resolution : higher than 640 x 480 , ratio 4:3 with color
+Computer minimum reqirement: 
+	Processir:  Intel Core 2 Duo 2.0 GHz, AMD Athlon 64 X2 2.0 GHz or better,
+	VGA : Intel HD Graphic, 
+	RAM : 2 GB
+Physical button : mouse and keyboard
 ```
 ### 2. Users
 
