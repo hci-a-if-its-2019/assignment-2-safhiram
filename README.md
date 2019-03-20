@@ -1,28 +1,47 @@
 # Sketching and Prototyping
-Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
 
 ## Part A: Sketches
-Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
-
-You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
 
 ![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
 
 ### 2. Version Differences
+<h4>Problem :</h4>
+
+* There is no button for FAQ feature
+* itsmine box hide troll button
+* There are two button which has same function. It's 'Tentang Kamu' and 'Kontak' button
+
+<h4>Solution 1:</h4>
+
 ```
-Please write a paragraph talking about the differences between the versions
+* Put troll function on top right corner and itsmine box on left.
+* Put FAQ feature button on next Sign in.
+* Merge between 'Tentang Kami' and 'Kontak' buttin into one button. Put on dropdown navbar.
+```
+
+<h4>Solution 2</h4>
+
+```
+* Make itsmine box is a pop up. When we close the pop up, it's doesnot appear again.
+* Make a new button in lower right corner that contain 'FAQ' and 'Kontak' button.
+```
+
+<h4>Solution 3</h4>
+
+```
+* Put itsmine box in the center. 
+  Every two minute, image always change(slide) so we can put that contain itsmine box on there.
+* Put troll button in top left corner.
 ```
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+The writers choose solution one because in writes's opinion, 
+- the design is more interesting. 
+- it has complete feature 
+- easy to use.
 ```
 
 ### 4. Design Rationale
@@ -41,12 +60,11 @@ Please be specific with the required hardware and any other assumptions,
 like whether the screen is color or black and white, etch.
 ```
 ### 2. Users
+
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+Every people in 6-60 ages can use this website. 
+The user atleast have experience using a website in computer or gadget. 
+The realible user have an experience to buy a product in online shopping
 ```
 
 ## Part C: Prototypes
