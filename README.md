@@ -32,6 +32,7 @@
 ```
 * Make itsmine box is a pop up. When we close the pop up, it's doesnot appear again.
 * Make a new button in lower right corner that contain 'FAQ' and 'Kontak' button.
+* Put troll function on top right corne
 ```
 
 <h4>Solution 3</h4>
