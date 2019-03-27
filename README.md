@@ -82,4 +82,9 @@ The realible user have an experience to buy a product in online shopping
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+<img src="semua.png">
+<h3>Freehand Link</h3>
+https://projects.invisionapp.com/freehand/document/11PgrQfYh
+<h3>Prototype Link</h3>
+https://projects.invisionapp.com/d/main#/console/17106095/354599604/preview
+
