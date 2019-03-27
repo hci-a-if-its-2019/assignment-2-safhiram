@@ -86,5 +86,5 @@ The realible user have an experience to buy a product in online shopping
 <h3>Freehand Link</h3>
 https://projects.invisionapp.com/freehand/document/11PgrQfYh
 <h3>Prototype Link</h3>
-https://projects.invisionapp.com/d/main#/console/17106095/354599604/preview
+https://invis.io/GER8AVK6T4V#/354599604_Main
 
