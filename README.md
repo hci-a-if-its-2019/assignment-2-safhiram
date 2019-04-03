@@ -67,10 +67,7 @@ Change ‘By clicking register, I agree to your terms’ button name into FAQ bu
 Make an alert if there is no result in search feature.
 Change the position of the order form so there is not a lot of empty space.
 -DON’T
-Show the password input , just make password input not visible
-Put any nonfunctional button
 Put troll feature behind the itsmine box
-often show sign in fiture.
 ```
 
 ## Part B: Assumptions
