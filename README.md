@@ -90,7 +90,6 @@ The realible user have an experience to buy a product in online shopping
 ```
 
 ## Part C: Prototypes
-<img src="semua.PNG">
 <h3>Freehand Link</h3>
 https://projects.invisionapp.com/freehand/document/11PgrQfYh
 <h3>Prototype Link</h3>
